@@ -49,8 +49,6 @@
    </tr>
 </table>
 
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=ExpertBC73&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true)
-
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
