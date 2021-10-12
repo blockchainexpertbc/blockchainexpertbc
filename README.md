@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/alexandera73/alexandera73/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/ExpertBC/ExpertBC/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
