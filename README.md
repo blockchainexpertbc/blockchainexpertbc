@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="logo.png" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/alexandera73/alexandera73/blob/master/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -11,7 +11,7 @@
 <img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
 <h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ExpertBC&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpertBC&layout=compact&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Experttovmach&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
