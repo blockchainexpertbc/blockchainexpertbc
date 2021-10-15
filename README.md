@@ -35,9 +35,20 @@
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-282497.png" width="100"></td>
+    <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pancake.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_truffle.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1174950.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
+   
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
