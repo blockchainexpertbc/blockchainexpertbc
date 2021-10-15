@@ -149,8 +149,8 @@
   <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
 
   <img height="150px" />
-<br/>
-  <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
+
+
 <table>
   <tr>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
