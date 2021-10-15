@@ -14,6 +14,128 @@
 </a>&nbsp;&nbsp;
   
 <p>
+
+  
+  ### DeFi Experiences
+- NFT Mint Dapps
+<table>
+    <thead align="center">
+        <tr>
+            <td>PotatoPowerClue</td>
+            <td>CryptoPigs</td>           
+            <td>DogePass</td>
+            <td>FunkiFoxes</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://mint.potatopower.club/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://cryptopigs.one/#/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
+            </a>
+        </td>           
+        <td>
+            <a href="https://nft.dogepass.io/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://funkifoxes.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+            </a>
+        </td>             
+    </tr>
+    <thead align="center">
+        <tr>
+            <td>CryptoSwords</td>
+            <td>ChubbyBunny</td>
+            <td>GekoSave</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://crypto-swords.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://chubbybunnynft.com/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
+            </a>
+        </td>
+        <td>
+            <a href="https://gekosave.io/" target="_blank">
+                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+            </a>
+        </td>                     
+    </tr>   
+</table>
+
+- NFT Marketplaces
+<table>
+    <thead align="center">
+        <tr>
+            <td>IgarataArtNFT</td>
+            <td>RabbitNFT</td>
+            <td>LunaChowNFT</td>
+            <td>GekoSaveAuction</td>
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="http://18.188.94.167:5000/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/igaratanft.png?raw=true" width="200">
+            </a>
+        </td>        
+        <td>
+            <a href="https://rabbitnft.com/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/rabbitnft.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="http://209.145.53.68:5000">
+                <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
+            </a>
+        </td> 
+        <td>
+            <a href="https://gekosave.io/marketplace">
+                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
+            </a>
+        </td>     
+    </tr>
+</table>
+
+- DEX
+<table>
+<thead align="center">
+        <tr>
+            <td>CosmicSwap</td>
+            <td>DDEXX INFO</td>
+            <td>MaticSwap</td>  
+        </tr>
+    </thead>
+    <tr>
+        <td>
+            <a href="https://app.cosmicswap.finance/">
+                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+            </a>
+        </td>          
+        <td>
+            <a href="http://analytics.ddexx.io">
+                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+            </a>
+        </td>   
+        <td>
+            <a href="https://maticfront.web.app/farms">
+                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+            </a>
+        </td> 
+    </tr>  
+</table>
   
   
 <p align="center">
