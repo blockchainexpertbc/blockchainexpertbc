@@ -109,7 +109,7 @@
 
 - DEX
 <table>
-<thead align="center">
+    <thead align="center">
         <tr>
             <td>CosmicSwap</td>
             <td>DDEXX INFO</td>
@@ -147,8 +147,6 @@
   <img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
   <h1 align="center"></h1>
   <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
-
-  <img height="150px" />
 
 
 <table>
