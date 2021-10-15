@@ -2,10 +2,10 @@
   <a href="https://join.skype.com/A4aRDScIchd6">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/A4aRDScIchd6">
+  <a href="https://discord.gg/uBApurqJ">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="inozemtsev1996@gmail.com">
+  <a href="mymail:inozemtsev1996@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
