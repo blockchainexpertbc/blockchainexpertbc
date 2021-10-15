@@ -48,8 +48,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
-    
-   </tr>
+    </tr>
     <tr>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
