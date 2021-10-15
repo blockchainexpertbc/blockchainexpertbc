@@ -142,11 +142,8 @@
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
     <a href="https://join.skype.com/invite/yIEeTOr6CPJ2"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join&color=7289DA" alt="Join Badge"/> </a>
-  </h1>
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
-  <img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
-  <h1 align="center"></h1>
-  <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
+</h1>
+ 
 
 
 <table>
