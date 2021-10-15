@@ -1,22 +1,20 @@
 <p align="center">
+  <a href="https://join.skype.com/A4aRDScIchd6">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/A4aRDScIchd6">
+    <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="inozemtsev1996@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 
+<p align="center">
+  <img align="center" src="https://github.com/ExpertBC/ExpertBC/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+</p>
   
- 
-<a href="https://join.skype.com/A4aRDScIchd6">
-  <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://join.skype.com/A4aRDScIchd6">
-  <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="inozemtsev1996@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-  
-<p>
-
-  
-  ### DeFi Experiences
+### DeFi Experiences
 - NFT Mint Dapps
 <table>
     <thead align="center">
@@ -138,9 +136,7 @@
 </table>
   
   
-<p align="center">
-  <img align="center" src="https://github.com/ExpertBC/ExpertBC/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
-</p>
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
