@@ -135,14 +135,6 @@
     </tr>  
 </table>
   
-  
-
-
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
-  <img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
-  <h1 align="center"></h1>
-  <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
-
 
 <table>
   <tr>
@@ -160,6 +152,14 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     </tr>
 </table>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
+<img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
+<h1 align="center"></h1>
+<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
+
+
+
 
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
