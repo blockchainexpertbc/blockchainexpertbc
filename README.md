@@ -142,8 +142,8 @@
   <img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
   <h1 align="center"></h1>
   <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
-<br/>
-## My Skills
+
+
 <table>
   <tr>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
@@ -164,19 +164,19 @@
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### DApps & Online Betting Website
-<br />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
 
-### Crypto Trading Platforms & Bots
-<br />
+  ### DApps & Online Betting Website
+  <br />
 
-### AR & VR Web and Mobile application
-<br />
+  ### Crypto Trading Platforms & Bots
+  <br />
 
-### Video Conference Web & Mobile application
-<br />
+  ### AR & VR Web and Mobile application
+  <br />
+
+  ### Video Conference Web & Mobile application
+  <br />
 
 </div>
 
