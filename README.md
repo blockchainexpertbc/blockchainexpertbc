@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://join.skype.com/A4aRDScIchd6">
+  <a href="mailto:live:.cid.bd5df81ce709e38c">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
   </a>&nbsp;&nbsp;
 <!--   <a href="https://discord.gg/uBApurqJ">
