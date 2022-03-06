@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="mailto:live:.cid.bd5df81ce709e38c">
+<!--   <a href="mailto:live:.cid.bd5df81ce709e38c">
     <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 <!--   <a href="https://discord.gg/uBApurqJ">
     <img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp; -->
-  <a href="mailto:oleksandrkunchenkodev@gmail.com">
+<!--   <a href="mailto:oleksandrkunchenkodev@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 </p>
 
 <p align="center">
