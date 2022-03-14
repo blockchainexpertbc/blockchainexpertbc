@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/ExpertBC/ExpertBC/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://github.com/blockchainexpertbc/blockchainexpertbc/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
   
 ### DeFi Experiences
@@ -154,10 +154,11 @@
     </tr>
 </table>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ExpertBC.ExpertBC" />
-<img align="right" src="https://img.shields.io/github/followers/ExpertBC?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blockchain
+                       .blockchainexpertbc" />
+<img align="right" src="https://img.shields.io/github/followers/blockchainexpertbc?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=ExpertBC&theme=github&count_private=true" />
+<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=blockchainexpertbc&theme=github&count_private=true" />
 
 
 
