@@ -149,7 +149,7 @@
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_bitcoin.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/node-1174925.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
     </tr>
 </table>
