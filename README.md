@@ -47,30 +47,7 @@
             </a>
         </td>             
     </tr>
-    <thead align="center">
-        <tr>
-            <td>CryptoSwords</td>
-            <td>ChubbyBunny</td>
-            <td>GekoSave</td>
-        </tr>
-    </thead>
-    <tr>
-        <td>
-            <a href="https://crypto-swords.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/CryptoSwords.png?raw=true" width="200">
-            </a>
-        </td>   
-        <td>
-            <a href="https://chubbybunnynft.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ChubbyBunny1.png?raw=true" width="200">
-            </a>
-        </td>
-        <td>
-            <a href="https://gekosave.io/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
-            </a>
-        </td>                     
-    </tr>   
+    
 </table>
 
 - NFT Marketplaces
