@@ -21,7 +21,6 @@
         <tr>
             <td>Cosmic Paws</td>
             <td>CryptoPigs</td>           
-            <td>DogePass</td>
             <td>FunkiFoxes</td>
         </tr>
     </thead>
@@ -36,11 +35,6 @@
                 <img src="https://github.com/kroim/profile/blob/master/projects/CryptoPig.png?raw=true" width="200">
             </a>
         </td>           
-        <td>
-            <a href="https://nft.dogepass.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/DogePass.png?raw=true" width="200">
-            </a>
-        </td>
         <td>
             <a href="https://funkifoxes.com/">
                 <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
@@ -57,7 +51,6 @@
             <td>Pocoland</td>
             <td>Bayc</td>
             <td>LunaChowNFT</td>
-            <td>GekoSaveAuction</td>
         </tr>
     </thead>
     <tr>
@@ -76,11 +69,6 @@
                 <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
             </a>
         </td> 
-        <td>
-            <a href="https://gekosave.io/marketplace">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave1.png?raw=true" width="200">
-            </a>
-        </td>     
     </tr>
 </table>
 
