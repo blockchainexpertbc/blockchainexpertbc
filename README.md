@@ -41,7 +41,6 @@
             </a>
         </td>             
     </tr>
-    
 </table>
 
 - NFT Marketplaces
