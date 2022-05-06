@@ -49,7 +49,7 @@
         <tr>
             <td>Pocoland</td>
             <td>Bayc</td>
-            <td>LunaChowNFT</td>
+            <td>Ghost</td>
         </tr>
     </thead>
     <tr>
