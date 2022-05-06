@@ -64,8 +64,8 @@
             </a>
         </td> 
         <td>
-            <a href="http://209.145.53.68:5000">
-                <img src="https://github.com/kroim/profile/blob/master/projects/LunachowNFT.png?raw=true" width="200">
+            <a href="https://ghostmarket.io/">
+                <img src="./images/marketplace-ghostmarket.png" width="200">
             </a>
         </td> 
     </tr>
